@@ -1,2 +1,2 @@
-##Live Demo: 
+## Live Demo
 https://giorgostsets.github.io/myCalculator/
